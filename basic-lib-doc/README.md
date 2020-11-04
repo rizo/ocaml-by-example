@@ -1,5 +1,7 @@
 # Basic Library Documentation
 
+> Please follow the [Requirements](https://github.com/rizo/ocaml-by-example/blob/main/README.md#requirements) instructions first.
+
 This demonstrates a simple project with a library and an executable. The
 library module has an interface file with documentation.
 
