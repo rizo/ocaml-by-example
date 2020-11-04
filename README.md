@@ -8,8 +8,8 @@ Make sure that you have a working [opam](https://opam.ocaml.org) environment, fo
 
 Examples use the [dune](https://dune.build) build system and [odoc](https://github.com/ocaml/odoc) for documentation generation.
 
-```sh
-# Install the required tools
+Install the required tools:
+```
 $ opam install dune odoc
 ```
 
