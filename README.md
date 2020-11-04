@@ -1,4 +1,4 @@
-# OCaml by example
+# OCaml by example ⚡️
 
 Code examples for OCaml.
 
