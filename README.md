@@ -13,6 +13,11 @@ Examples use the [dune](https://dune.build) build system and [odoc](https://gith
 $ opam install dune odoc
 ```
 
+## Contributions
+
+Fork this repository and open a pull request with small code examples to share it with others! Make sure that you document all the installation and execution instructions.
+
+
 ## Examples
 
 - [hello-world](https://github.com/rizo/ocaml-by-example/tree/main/hello-world) - a small executable that prints a "hello world" message.
