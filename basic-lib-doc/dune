@@ -5,7 +5,7 @@
  ; The package name is the name of the opam file at root of the project.
  (public_name ocaml-by-example.lib)
  ; Provide a list of modules for the library.
- ; This is only necessary if there modules in the current directory are used in
+ ; This is only necessary if the modules in the current directory are used in
  ; multiple libraries or executables.
  (modules Basic_lib_doc))
 
