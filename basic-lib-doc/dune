@@ -13,7 +13,7 @@
  (name Main)
  (public_name main)
  ; Provide a list of modules for the library.
- ; This excludes the Lib module and uses :standard, i.e., all modules in the
+ ; This excludes the library module and uses :standard, i.e., all modules in the
  ; current directory.
  (modules :standard \ Basic_lib_doc)
  ; Use the locally defined library as a dependency.
